@@ -1,0 +1,1 @@
+# Streamlined-Sales-Data-Ingestion-Pipeline-for-Real-Time-Insights
